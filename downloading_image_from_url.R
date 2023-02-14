@@ -1,3 +1,5 @@
+# Task -- Downloading, Saving and Renaming Images downloaded from URL
+
 # loading required libraries and the data
 
 library(plyr)
@@ -19,15 +21,15 @@ library(curl)
 library(RCurl)
 library(httr)
 library(XML)
-setwd("C:/Users/olaye/Downloads/look")
+setwd("PATH")  # add working directory here
 getwd()
-df <- read_excel("Investors Agent Picture Downloads Cleaned.xlsx")
+df <- read_excel("data.xlsx")  # importing data - type in the file name here
 attach(df)
 View(df)
 
 #====
 #Code to read one file and save it will look something like this:
-myurl = "https://images.verifyme.ng/agent-profiles/agent-103853-05slennp9mmmaut6izdc8xj-0498-87560435.png"
+myurl = "https://images.verifyme.ng/agent-profiles/agent-103853-05slennp9mmmaut6izdc8xj-0498-87560435.png"  
 #Creating temporary place to save
 z <- tempfile()
 #Downloding the file
