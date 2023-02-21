@@ -455,17 +455,3 @@ views_df_no_outliers.to_csv(link_username + '-linkedin-views-last-' + str(number
 ########################################################
 #_______________________THE_END________________________#
 ########################################################
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-keyword = "climate change actions"
-url = 
-
