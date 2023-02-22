@@ -29,7 +29,7 @@ View(df)
 
 #====
 #Code to read one file and save it will look something like this:
-myurl = "https://images.verifyme.ng/agent-profiles/agent-103853-05slennp9mmmaut6izdc8xj-0498-87560435.png"  
+myurl = "https://images.png"  # add image URL here
 #Creating temporary place to save
 z <- tempfile()
 #Downloding the file
