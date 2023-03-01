@@ -1,0 +1,13 @@
+PreviousLoansData,Description
+customerid, Encoded primary key used to merge to other data
+systemloanid,The id associated with the particular loan. The same customerId can have multiple systemloanid's for each loan he/she has taken out
+loannumber,The number of the loan that you have to predict
+approveddate ,Date that loan was approved
+creationdate ,Date that loan application was created
+loanamount ,Date that loan application was created
+totaldue ,Total repayment required to settle the loan - this is the capital loan value disbursed +interest and fees
+termdays, Term of loan
+closeddate, Date that the loan was settled
+referredby,customerId of the customer that referred this person - is missing, then not refrerred
+firstduedate, Date of first payment due in cases where the term is longer than 30 days. So in the case where the term is 60+ days - then there are multiple monthly payments due - and this dates reflects the date of the first payment
+firstrepaiddate,Actual date that he/she paid the first payment as defined above
