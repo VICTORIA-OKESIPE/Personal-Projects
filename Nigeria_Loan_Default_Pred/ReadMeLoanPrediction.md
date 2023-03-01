@@ -12,7 +12,7 @@
   
    <br>                 
   <div >
-       <img src="Loan Dashboars.JPG" width="100%" height="50%" >
+       <img src="Loan Dashboard.JPG" width="100%" height="50%" >
   </div>
    <br/>
  
