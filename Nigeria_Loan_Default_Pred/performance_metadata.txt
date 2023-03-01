@@ -1,6 +1,6 @@
 PerformanceData,Description
 customerid, Encoded primary key used to merge to other data
-systemloanid,The id associated with the particular loan. The same customerId can have multiple systemloanid’s for each loan he/she has taken out
+systemloanid,The id associated with the particular loan. The same customerId can have multiple systemloanid's for each loan he/she has taken out
 loannumber, The number of the loan that you have to predict
 approveddate, Date that loan was approved
 creationdate, Date that loan application was created
