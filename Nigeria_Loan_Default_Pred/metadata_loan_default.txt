@@ -1,6 +1,6 @@
 There are 3 different datasets for both train and test.
 ====
-Demographic data (customerdemographics.csv)
+Demographic data (customerdemographics.csv) : This dataset conatains basic information about the customer.
 Performance data (customerperf.csv) : This is the repeat loan that the customer has taken for which we need to predict the performance of. Basically, we need to predict whether this loan would default given all previous loans and demographics of a customer.
 Previous loans data
 (customerprevloans.csv) : This dataset contains all previous loans that the customer had prior to the loan above that we want to predict the performance of. Each loan will have a different systemloanid, but the same customerid for each customer.
