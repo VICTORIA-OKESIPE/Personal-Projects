@@ -1,0 +1,10 @@
+DemographicData,Description
+customerid, Encoded primary key used to merge to other data
+birthdate, Date of birth of the customer
+bank_account_type, Type of primary bank account
+longitude_gps, Longitude gps 
+latitude_gps, Latitude gps
+bank_name_clients, Name of the bank
+bank_branch_clients, Location of the branch - not compulsory - so missing in lot of the cases
+employment_status_clients, type of employment that customer has
+level_of_education_clients, highest level of education
