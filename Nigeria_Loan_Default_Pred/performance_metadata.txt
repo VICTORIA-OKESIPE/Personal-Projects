@@ -7,4 +7,4 @@ creationdate, Date that loan application was created
 loanamount, Loan value taken
 totaldue, Total repayment required to settle the loan - this is the capital loan value disbursed plus interest and fees
 termdays, Term of loan
-referredby, customerId of the customer that referred this person - is missing, then not referred
+referredby, customerId of the customer that referred this person. If missing - then not referred
