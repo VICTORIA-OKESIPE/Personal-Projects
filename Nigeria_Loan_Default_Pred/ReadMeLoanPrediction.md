@@ -7,7 +7,7 @@
  
 <body> 
   
-  <h1 align="center"> Welcome🤝I am so thrilled to have you here. </h1>
+  <h1 align="left"> A dashboard to gain insight about the Loan dataset for this project. </h1>
   
   
    <br>                 
