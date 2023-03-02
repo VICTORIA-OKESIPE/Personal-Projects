@@ -28,7 +28,7 @@ import requests
 
 # importing packages for managing web scrapping
 from selenium import webdriver
-# this is tested on Chrome using "webdriver.Chrome()" , you can use FireFox or any other browser
+# this is tested on Chrome using "webdriver.Chrome()" ,  can use FireFox or any other browser
 from bs4 import BeautifulSoup
 import re
 import time
