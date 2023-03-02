@@ -6,7 +6,7 @@
 
 import os
 import sys
-os.path.dirname(sys.executable)
+os.path.dirname(sys.executa)
 
 
 # In[138]:
