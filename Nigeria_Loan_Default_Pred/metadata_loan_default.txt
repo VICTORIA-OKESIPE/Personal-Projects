@@ -43,7 +43,7 @@ systemloanid (The id associated with the particular loan. The same customerId ca
 loannumber (The number of the loan that you have to predict)
 approveddate (Date that loan was approved)
 creationdate (Date that loan application was created)
-loanamount (Date that loan application was created)
+loanamount (Loan value taken)
 totaldue (Total repayment required to settle the loan - this is the capital loan value disbursed +interest and fees) termdays (Term of loan)
 closeddate (Date that the loan was settled)
 referredby (customerId of the customer that referred this person - is missing, then not refrerred)
