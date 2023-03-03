@@ -48,4 +48,4 @@ totaldue (Total repayment required to settle the loan - this is the capital loan
 closeddate (Date that the loan was settled)
 referredby (customerId of the customer that referred this person - is missing, then not refrerred)
 firstduedate (Date of first payment due in cases where the term is longer than 30 days. So in the case where the term is 60+ days - then there are multiple monthly payments due - and this dates reflects the date of the first payment)
-firstrepaiddate (Actual date that he/she paid the first payment as defined above)
+firstrepaiddate (Actual date that he/she paid the first payment as defined )
