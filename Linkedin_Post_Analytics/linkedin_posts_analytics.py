@@ -272,8 +272,6 @@ for tag in likes_bs4tags:
 # In[167]:
 
 
-table
-
 
 # In[127]:
 
