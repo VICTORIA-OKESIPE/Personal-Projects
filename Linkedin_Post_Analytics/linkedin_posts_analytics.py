@@ -12,7 +12,7 @@ os.path.dirname(sys.executable)
 # In[138]:
 
 
-get_ipython().system('pip install beautifulsoup4 ')
+get_ipython().system('pip install beautifulsoup4 requests')
 
 
 # In[151]:
