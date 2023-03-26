@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 from xgboost import XGBClassifier
-import scikitlearn as sklearn 
-from sklearn.preprocessing import StandardScaler
+#import scikitlearn as sklearn 
+#from sklearn.preprocessing import StandardScaler
 
 #Loading up the classifier model we created
 XGB_tuned = XGBClassifier()
