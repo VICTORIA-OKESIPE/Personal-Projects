@@ -3,4 +3,4 @@ requirements:
 		pip install -r requirements.txt
 
 run:
-	streamlit run streamlit_app.py
+	streamlit run streamlit_loan_api.py
