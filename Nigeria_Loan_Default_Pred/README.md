@@ -1,20 +1,19 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  </head>
- 
-<body> 
-  
-  <h1 align="left"> A dashboard to gain insight about the Loan dataset for this project. </h1>
-  
-  
-   <br>                 
-  <div >
-       <img src="Loan Dashboard.JPG" width="100%" height="50%" >
-  </div>
-   <br/>
- 
-  </body>
- </html>
+# Loan Eligibility Predictor App using Streamlit #
+
+## By: Victoria Oluwakemi Okesipe ##
+
+### Statement of Purpose ###
+
+The purpose of this repository is as a project for creating a prediction model that predicts the whether or not loan should be given to a bank customer, and building a simple frontend application to make the model publicly available using Streamlit.
+
+### Data Description ###
+
+The data we will be using for this project is the [loan_data](https://zindi.africa/competitions/data-science-nigeria-challenge-1-loan-default-prediction) dataset, which is publicly available via Zindi. It contains three datasets: Demographic Data, Performance Data, and Previous Loand Data of the bank customers. The number of observations and features vary across the three datasets.
+
+### Tools ###
+
+- **Pandas** for accessing the data, and preparing the it for modeling.
+
+- **XGBoost** for creating a gprediction model.
+
+- **Streamlit** for creating a frontend application
