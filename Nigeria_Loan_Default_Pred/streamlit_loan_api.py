@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 from xgboost import XGBClassifier
-install scikit-learn
+import scikit-learn
 from sklearn.preprocessing import StandardScaler
 
 #Loading up the classifier model we created
