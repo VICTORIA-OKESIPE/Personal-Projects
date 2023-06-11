@@ -1,5 +1,5 @@
 rm(list=ls()) # remove all variables in workspace to ensure there are no conflicting variables.
-/////////////////////////////////////////
+////////////////////////////////////////////
 # loading important and necessary libraries
 library(outliers)  # useful for outlier detection tests
 library(gridExtra) # gridExtra package provides helpful function for multi-object layout
