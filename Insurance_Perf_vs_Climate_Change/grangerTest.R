@@ -13,7 +13,7 @@ library(urca)      # useful package for cointegration
 # get working directory
 getwd()
 
-# IMPORTING DATASETS INTO R
+# IMPORTING DATASETS INTO R (file type is .csv)
 # Global climate data (temperature) 
 clim_data <- read.csv("Confirmed_Global_Land_Ocean_Temp.csv", sep = ",")
 
