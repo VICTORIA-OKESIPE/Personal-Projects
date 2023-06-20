@@ -5,6 +5,7 @@
 
 # work in progress
 #1
+#2
 import os
 import sys
 os.path.dirname(sys.executable)
