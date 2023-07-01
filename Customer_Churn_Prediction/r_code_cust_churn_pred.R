@@ -13,7 +13,7 @@ library(party)
 #library(rpart.plot)
  
 
-churn <- read.csv('https://raw.githubusercontent.com/VICTORIA-OKESIPE/Datasets_for_Education/main/Business/customer_churn_data.csv')
+churn <- read.csv('https://raw.githubusercontent.com/VICTORIA-OKESIPE/Datasets_for_Education/main/Business/customer_churn_data.csv')k
 
 attach(churn)
 
