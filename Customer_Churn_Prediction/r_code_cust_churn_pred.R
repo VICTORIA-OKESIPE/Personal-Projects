@@ -6,7 +6,7 @@ library(gridExtra)
 library(ggthemes)
 library(caret)
 library(MASS)
-library(randomFore
+library(randomFor
 library(party)
 #library(caret)
 #library(rpart)
