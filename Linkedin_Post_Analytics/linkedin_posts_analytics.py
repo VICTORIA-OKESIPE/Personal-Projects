@@ -19,7 +19,7 @@
 #13
 import os
 import sys
-lllllkjkkjjkllmmmnnnnnnnnnnnn
+lllllkjkkjjkllmmmnnnnnnnnnnnnmmmm
 os.path.dirname(sys.executable)
 
 
