@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import streamlit as str
+import streamlit as strr
 from xgboost import XGBClassifier
 from sklearn.preprocessing import StandardScaler
 
