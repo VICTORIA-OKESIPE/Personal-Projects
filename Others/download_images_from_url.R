@@ -1,6 +1,6 @@
 # Task -- Downloading, Saving, and Renaming Images downloaded from URL
 
-# This is a 
+# This is a R code
 
 # loading required libraries and the data
 
