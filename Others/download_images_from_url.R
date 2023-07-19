@@ -1,6 +1,6 @@
 # Task -- Downloading, Saving, and Renaming Images downloaded from URL
 
-# This is an R code that can teach you how to perform the task stated
+# This is an R code that can teach you how to perform the task stated above
 
 # loading required libraries and the data
 
@@ -18,7 +18,7 @@ library(readxl)
 #install.packages("XML")
 
 library(jpeg) #to read and write the images
-library(here) #to save the files to the right location - this only works if you're working with a R project
+library(here) #to save the files to the right location - this only works if you're working with an R project
 library(curl)
 library(RCurl)
 library(httr)
