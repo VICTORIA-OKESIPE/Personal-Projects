@@ -1,8 +1,9 @@
 Task 1 - Introduction to Data Collection Tools
 Task 2 - Data Collection
 Task 3 - Understanding the Data
-Task 4 - Understanding the Data Preprocessing Tools
+Task 4 - Understanding the Data Preprocessing Softwares
 Task 5 - Ethics of AI
+Task 6 - Reading up on the Data Preprocessing Softwares
 
 2.
 3.
