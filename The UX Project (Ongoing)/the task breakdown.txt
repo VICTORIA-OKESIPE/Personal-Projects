@@ -3,7 +3,7 @@ Task 2 - Data Collection
 Task 3 - Understanding the Data
 Task 4 - Understanding the Data Preprocessing Tools
 Task 5 - Ethics of AI
-1.
+
 2.
 3.
 4.
