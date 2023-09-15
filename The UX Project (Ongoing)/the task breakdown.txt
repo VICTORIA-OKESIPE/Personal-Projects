@@ -4,5 +4,5 @@ Task 3 - Understanding the Data
 Task 4 - Understanding the Data Preprocessing Softwares
 Task 5 - Ethics of AI
 Task 6 - Reading up on the Data Preprocessing Softwares
-Task 7 - Preprocessing the Data
+Task 7 - Practising Data Preprocessing Steps
 
