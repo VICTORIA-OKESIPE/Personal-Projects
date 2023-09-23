@@ -6,12 +6,3 @@ Task 5 - Ethics of AI
 Task 6 - Reading up on the Data Preprocessing Softwares
 Task 7 - Practising Data Preprocessing Steps
 Task 8 - Brainstorming on Analysis Plan
-1
-2
-3
-4
-5
-6
-7
-8
-9
