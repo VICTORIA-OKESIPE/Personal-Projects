@@ -7,4 +7,4 @@ Task 6 - Reading up on the Data Preprocessing Softwares
 Task 7 - Practising Data Preprocessing Steps
 Task 8 - Brainstorming on Analysis Plan
 Task 9 - Reading Papers on EyeTracking Analysis
-Task 10 - Exploring the Eyetracking data to extract parameters 
+Task 10 - Exploring the Eyetracking data to extract parameters of interest
