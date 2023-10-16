@@ -9,3 +9,4 @@ Task 8 - Brainstorming on Analysis Plan
 Task 9 - Reading Papers on EyeTracking Analysis
 Task 10 - Exploring the Eyetracking data to extract parameters of interest
 Task 11 - Read Paper!!!
+Task 12 - Subsetting Data by Task(s)
