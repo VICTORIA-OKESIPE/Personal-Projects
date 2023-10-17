@@ -11,5 +11,5 @@ Task 10 - Exploring the Eyetracking data to extract parameters of interest
 Task 11 - Read Paper!!!
 Task 12 - Subsetting Data by Task(s)
 Task 13 - Writing Introduction (Article)
-Task 14 - Descriptive Statistics of Subsetted Data
-Task 15 - Reading through Writeup Feedbacks
+Task 14 - Reading through Writeup Feedbacks
+Task 15 - Descriptive Statistics of Subsetted Data
