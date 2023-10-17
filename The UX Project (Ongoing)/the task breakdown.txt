@@ -12,3 +12,4 @@ Task 11 - Read Paper!!!
 Task 12 - Subsetting Data by Task(s)
 Task 13 - Writing Introduction (Article)
 Task 14 - Descriptive Statistics of Subsetted Data
+Task 15 - Reading through Writeup Feedbacks
