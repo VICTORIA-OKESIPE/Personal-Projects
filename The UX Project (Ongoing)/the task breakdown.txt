@@ -13,7 +13,7 @@ Task 12 - Subsetting Data by Task(s)
 Task 13 - Writing Introduction (Article)
 Task 14 - Reading through Writeup Feedbacks
 Task 15 - Descriptive Statistics of Subsetted Data (Day 1)
-Task 15 - Descriptive Statistics of Subsetted Data
+Task 15 - Descriptive Statistics of Subsetted Data (Day 2)
 
 
 
