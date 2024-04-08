@@ -23,5 +23,5 @@ Task 16 - Learning about some Machine Learning Processes on Data Processing
 Task 16 - Data Engineering some features of Interest
 Task 17 - Merging some aspects of the needed data
 Task 17 - Learning about Communications with Industry Experts
-Task 18 - General Modelling 
+Task 18 - General Modelling Procedures (ML Algorithms)
 Task 19 - Moodel Selection
