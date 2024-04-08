@@ -27,3 +27,7 @@ Task 18 - General Modelling Procedures (ML Algorithms)
 Task 19 - Moodel Selection
 Task 20 - Hyperparameter Tuning
 Task 21 - Model Evaluation
+Task 22 - Collation of Analysis Results
+Task 23 - Slide Preparation for Technical Presentation
+Task 24 - Communication or Results to Key (Technical) Stakeholders
+Task 25 - Final Manuscript (10 pages max.) Presentation for NeuroIS [2024 Retreat] Community
