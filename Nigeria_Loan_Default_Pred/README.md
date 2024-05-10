@@ -17,3 +17,5 @@ The data we will be using for this project is the [loan_data](https://zindi.afri
 - **XGBoost** for creating a gprediction model.
 
 - **Streamlit** for creating a frontend application
+
+Explore!
