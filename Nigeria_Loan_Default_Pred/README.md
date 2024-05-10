@@ -1,6 +1,6 @@
 # Loan Eligibility Predictor App using Streamlit #
 
-## By: Victoria Oluwakemi Okesipe ##
+## By: Victoria Oluwakemi OKESIPE ##
 
 ### Statement of Purpose ###
 
